@@ -10,3 +10,8 @@ The project was initially called "The FTMC OS", is a Linux-Based operating syste
   This map is built in Minecraft 1.19.2 using [GNU/Genshin OS](https://gnugenshin.miraheze.org/wiki/GNU/Genshin/en).<br>
 * [FTMCRailBuilder13](https://github.com/Android-Piepaint/FTMCRailBuilder13)  A Minecraft datapack to build minecart automatic contraptions.)<br>
 * [FTMC Bullet Cart v2.3 Engine](https://github.com/Android-Piepaint/FTMCRailBuilder13) A datapack for building high-speed subway lines.
+## If you have questions...
+Use **Issues** tab on top and submit bugs or feature requests!
+## Copyrights
+©2015~2023, The GNU/Genshin Project, All Rights Reserved.<br>
+©2019~2023, GNU/Genshin Subway Project, All Rights Reserved.
