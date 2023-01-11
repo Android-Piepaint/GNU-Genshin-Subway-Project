@@ -1,5 +1,6 @@
 ![GNU/Genshin Proj.logo](https://static.miraheze.org/gnugenshinwiki/3/3a/Pack.png)
 # GNU/Genshin Subway Project
+> **Note: Use Minecraft 1.19.2 to play !**
 Welcome to GNU/Genshin Project's subway world in Minecraft !<br>
 To get started, download a copy of our map in **Releases** tab.
 ## About
@@ -12,6 +13,14 @@ The project was initially called "The FTMC OS", is a Linux-Based operating syste
 * [FTMC Bullet Cart v2.3 Engine](https://github.com/Android-Piepaint/FTMCRailBuilder13) A datapack for building high-speed subway lines.
 ## If you have questions...
 Use **Issues** tab on top and submit bugs or feature requests!
+## Build your custom subway lines
+1. Fork this repository
+2. Clone your repository by using git: `git clone https://github.com/your-user-name/GNU-Genshin-Subway-Project.git `
+3. Open this map and start building !
+4. When you finished building your first station, continue ! There is still a long way to go.
+5. When you finished building, submit your changes and push it to the main branch of your repository.
+6. If you think nothing goes wrong, use **Pull requests** tab on top to create a pull request.
+7. Wait for some times! I will merge your changes into this map.
 ## Copyrights
 ©2015\~2023, The GNU/Genshin Project, All Rights Reserved.<br>
 ©2019\~2023, GNU/Genshin Subway Project, All Rights Reserved.
