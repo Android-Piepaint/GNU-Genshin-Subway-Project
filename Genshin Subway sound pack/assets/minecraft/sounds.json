@@ -1,0 +1,5 @@
+{
+"gemc.test": {"sounds": ["gemc/test/test"], "stream": true},
+"gemc.test.cn": {"sounds": ["gemc/test/test_cn"], "stream": true},
+"gemc.warn": {"sounds": ["gemc/misc_voice/warn"], "stream": true}
+}
