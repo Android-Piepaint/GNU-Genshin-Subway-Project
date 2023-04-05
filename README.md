@@ -3,7 +3,11 @@
 > **Note: Use Minecraft 1.19.3 to play !**
 Welcome to GNU/Genshin Project's subway world in Minecraft !<br>
 To get started, download a copy of our map in **Releases** tab.
-# Official documents now avaliable: [GNU/Genshin Subway Project Help Docs](https://the-gnu-genshin-project.gitbook.io/gnu-genshin-subway-project/)
+# Official documents now avaliable: [GNU/Genshin Subway Project Help Docs](https://the-gnu-genshin-project.gitbook.io/gnu-genshin-subway-project/)<br>
+
+## For testers
+ This is a test branch for our new resourace pack.
+
 ## About
 This map is built in Minecraft 1.19.3 using [GNU/Genshin OS](https://gnugenshin.miraheze.org/wiki/GNU/Genshin/en).<br>
 On July 28, 2015, The GNU/Genshin Project was formed. It is worth noting that a famous Minecraft Map called "Republic of FlashTeens", was also formed on that day.<br>
