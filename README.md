@@ -1,4 +1,4 @@
-![GNU/Genshin Proj.logo](https://static.miraheze.org/gnugenshinwiki/d/d7/Gnu-genshin-subway64.png)
+![GNU/Genshin Proj.logo](https://static.miraheze.org/gnugenshinwiki/4/4d/Gnu-Metro-logo.png)
 # GNU/Genshin Subway Project
 > **Note: Use Minecraft 1.19.4 or above to play !**
 Welcome to GNU/Genshin Metro Project in Minecraft !<br>
