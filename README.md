@@ -1,3 +1,16 @@
+# Give Up GitHub
+
+This project has given up GitHub because of its proprietary, trade-secret system that is not Free and Open Souce Software
+(FOSS), and bad experiences in some regions. We are deeply concerned about using a proprietary system like GitHub
+to develop our FOSS project.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+
+You can now find this project at [Codeberg](https://codeberg.org/Android-Piepaint/GNU-Genshin-Subway-Project) instead.
+
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
+
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
 ![GNU/Genshin Proj.logo](https://static.miraheze.org/gnugenshinwiki/4/4d/Gnu-Metro-logo.png)
 # GNU/Genshin Subway Project
 > **Note: Use Minecraft 1.19.4 or above to play !**
