@@ -10,7 +10,7 @@ Any use of this project's code by GitHub Copilot, past or present, is done witho
 
 Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+
 ![GNU/Genshin Proj.logo](https://static.miraheze.org/gnugenshinwiki/4/4d/Gnu-Metro-logo.png)
 # GNU/Genshin Subway Project
 > **Note: Use Minecraft 1.19.4 or above to play !**
